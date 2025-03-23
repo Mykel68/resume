@@ -18,13 +18,13 @@ Dynamic Frontend Engineer with a proven track record in designing and building s
 - **Databases:** PostgreSQL, MongoDB, MySQL
 - **DevOps:** Docker
 - **Tools:** Git, Figma, Postman, SEO
-- **Concepts:** Responsive Design, Cross-browser Compatibility
+- **Concepts:** Responsive Design, Cross-browser Compatibility, Progressive Web Applications, Web Performance Optimization
 
 ---
 
 ## PROFESSIONAL EXPERIENCE
 
-### Senior Software Engineer | Olowoola Garment Production (2025)
+### Software Engineer | Olowoola Garment Production (2025)
 - Designed and implemented a scalable, secure, and user-friendly web application for Olowoola Garment Production, a leading manufacturer of high-quality garments.
 - Collaborated with cross-functional teams to streamline development and deliver high-quality features.
 
@@ -64,6 +64,14 @@ Dynamic Frontend Engineer with a proven track record in designing and building s
 - **Expense Tracker:**  
   Engineered a full-stack expense tracking platform featuring real-time data visualization, budgeting tools, and an intuitive interface for efficient financial management.  
   **Tech Stack:** Next.js, Express
+
+- **DevLounge (Telegram Bot):**  
+  Developed a Telegram bot that gives update on tech news, job listings, and other relevant information.
+  **Tech Stack:** Python, Telegram Bot API
+
+- **DevLounge (Full):**  
+  Developed a full-fledged telegram to get live data that supplies supplies updates on tech news, job listings from various sources, and other relevant information all in one place.
+  **Tech Stack:** Python, Telegram Bot API, Javascript
 
 ---
 
@@ -119,3 +127,5 @@ Dynamic Frontend Engineer with a proven track record in designing and building s
 - [Authentication Portal](https://auth.dclm.org)
 - [Scan Me Project](https://github.com/Mykel68/scanme)
 - [Expense Tracker](https://github.com/Mykel68/expense-tracker)
+- [DevLounge Telegram Bot](https://github.com/Mykel68/devToday_)
+- [DevLounge Full](https://github.com/Mykel68/devlounge-full) 
