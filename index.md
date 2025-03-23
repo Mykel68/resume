@@ -1,5 +1,5 @@
 # MICHEAL OLOWOOKERE
-**Full-Stack Engineer | Frontend Developer | Web Application Developer**  
+**Frontend Engineer | Full-Stack Developer | Web Application Developer**  
 +234 (090) 3882 0041 • [developermykel@gmail.com](mailto:developermykel@gmail.com)  
 [Portfolio](https://mykel.vercel.app) • [Github](https://github.com/Mykel68/) • [LinkedIn](https://linkedin.com/in/devmplus)
 
@@ -17,8 +17,9 @@ Dynamic Frontend Engineer with a proven track record in designing and building s
 - **Frameworks & Libraries:** React.js, Next.js, Node.js, Express, Nest.js
 - **Databases:** PostgreSQL, MongoDB, MySQL
 - **DevOps:** Docker
-- **Tools:** Git, Figma, Postman, SEO
-- **Concepts:** Responsive Design, Cross-browser Compatibility, Progressive Web Applications, Web Performance Optimization
+- **Tools:** Git, Figma, Postman
+- **Concepts:** Responsive Design, Cross-browser Compatibility, Progressive Web Applications, Web Performance Optimization, SEO
+- **Other:** UX/UI Principles, Project Management, Telegram Bot Development
 
 ---
 
@@ -129,3 +130,8 @@ Dynamic Frontend Engineer with a proven track record in designing and building s
 - [Expense Tracker](https://github.com/Mykel68/expense-tracker)
 - [DevLounge Telegram Bot](https://github.com/Mykel68/devToday_)
 - [DevLounge Full](https://github.com/Mykel68/devlounge-full) 
+
+
+
+
+*Thank you for considering my application. I am excited about the opportunity to contribute to your team and leverage my skills and experience for your organization. I look forward to discussing how my background aligns with your needs.*
