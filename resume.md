@@ -1,5 +1,5 @@
 # MICHEAL OLOWOOKERE
-**Full-Stack Engineer | Web Application Developer**  
+**Full-Stack Engineer | Frontend Developer | Web Application Developer**  
 +234 (090) 3882 0041 • [developermykel@gmail.com](mailto:developermykel@gmail.com)  
 [Portfolio](https://mykel.vercel.app) • [Github](https://github.com/Mykel68/) • [LinkedIn](https://linkedin.com/in/devmplus)
 
@@ -23,6 +23,10 @@ Dynamic Frontend Engineer with a proven track record in designing and building s
 ---
 
 ## PROFESSIONAL EXPERIENCE
+
+### Senior Software Engineer | Olowoola Garment Production (2025)
+- Designed and implemented a scalable, secure, and user-friendly web application for Olowoola Garment Production, a leading manufacturer of high-quality garments.
+- Collaborated with cross-functional teams to streamline development and deliver high-quality features.
 
 ### Frontend Engineer | MyFund (2025)
 - Developed scalable React components for a dynamic financial dashboard.
@@ -74,6 +78,8 @@ Dynamic Frontend Engineer with a proven track record in designing and building s
 
 - **Certificate in Computer Science & Programming**  
   *Federal School of Statistics, July 2023*
+
+- **Computer Professionals (Registration Council of Nigeria)**
 
 ---
 
