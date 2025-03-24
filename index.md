@@ -19,7 +19,7 @@ Dynamic Frontend Engineer with a proven track record in designing and building s
 - **DevOps:** Docker
 - **Tools:** Git, Figma, Postman
 - **Concepts:** Responsive Design, Cross-browser Compatibility, Progressive Web Applications, Web Performance Optimization, SEO
-- **Other:** UX/UI Principles, Project Management, Telegram Bot Development
+- **Other:** UX/UI Principles, Project Management, Telegram & Meta Bot Development
 
 ---
 
@@ -51,6 +51,19 @@ Dynamic Frontend Engineer with a proven track record in designing and building s
 ### Junior Developer (2023)
 - Worked with PHP for backend development, implementing dynamic web features and maintaining legacy code.
 
+
+### Student Project | Movie Recommendation App (2023) 
+- Developed a movie recommendation app using React.js and Node.js, showcasing the power of modern web technologies for building dynamic and interactive user interfaces.
+
+### Frelance Web Developer | Smadaf Graphics Print (2022)
+- Designed and developed a custom website that enhanced the company’s online presence, leading to increased customer engagement and sales
+
+### Student Project | Landing Page Development (2021)
+- Developed a landing page for students as part of a class project, demonstrating proficiency in web design and development principles.
+
+- Received positive feedback from peers and instructors, highlighting the effectiveness of the design in promoting student resources and events.
+
+
 ---
 
 ## KEY PROJECTS
@@ -61,18 +74,19 @@ Dynamic Frontend Engineer with a proven track record in designing and building s
 - **Scan Me:**  
   Developed a mobile-friendly application that utilizes QR code scanning to retrieve dynamic content and facilitate contactless interactions.  
   **Tech Stack:** Next.js, Express
-  
+
 - **Expense Tracker:**  
   Engineered a full-stack expense tracking platform featuring real-time data visualization, budgeting tools, and an intuitive interface for efficient financial management.  
   **Tech Stack:** Next.js, Express
-
+  
 - **DevLounge (Telegram Bot):**  
-  Developed a Telegram bot that gives update on tech news, job listings, and other relevant information.
+  Developed a Telegram bot that gives update on tech news, job listings, and other relevant information..  
   **Tech Stack:** Python, Telegram Bot API
 
 - **DevLounge (Full):**  
-  Developed a full-fledged telegram to get live data that supplies supplies updates on tech news, job listings from various sources, and other relevant information all in one place.
+  Developed a full-fledged telegram to get live data that supplies supplies updates on tech news, job listings from various sources, and other relevant information all in one place.  
   **Tech Stack:** Python, Telegram Bot API, Javascript
+
 
 ---
 
