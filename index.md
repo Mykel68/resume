@@ -92,7 +92,7 @@ Dynamic Frontend Engineer with a proven track record in designing and building s
 
 ## OPEN SOURCE CONTRIBUTIONS
 
-- Contributed to various open source projects focused on frontend development by addressing bugs, implementing feature enhancements, and optimizing codebases.
+- Contributed to various open source projects focused on frontend development by addressing bugs, reporting issues, and optimizing codebases.
 - Developed and shared reusable React components and utilities integrated into community-driven repositories.
 
 ---
