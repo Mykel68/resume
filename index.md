@@ -25,7 +25,7 @@ Dynamic and results-driven Frontend Engineer with a proven track record of desig
 
 ## PROFESSIONAL EXPERIENCE
 
-### Software Engineer | Olowoola Garment Production (2025)
+### Software Engineer | Olowoola Garment Production 
 - Designed and implemented a scalable, secure, and user-friendly web application for an innovative startup in the garment industry, ensuring a robust digital experience and streamlined operations.
 - Collaborated with cross-functional teams to enhance development processes and consistently deliver high-quality features that adapt to evolving business needs.
 
@@ -50,19 +50,20 @@ Dynamic and results-driven Frontend Engineer with a proven track record of desig
 
 ### Junior Developer (2023)
 - Contributed to backend development using PHP to implement dynamic web features and maintain legacy systems, ensuring overall system stability and performance
+- Transitioned from HTML, CSS, JS to PHP, MySQL, Bootstrap
+- Initiated and conducted web development workshops for interested colleagues, sharing knowledge on modern web technologies, best practices, and practical coding skills to foster a collaborative learning environment.
 
-<!-- 
 ### Student Project | Movie Recommendation App (2023) 
 - Developed a movie recommendation app using React.js and Node.js, showcasing modern web technologies to deliver dynamic and interactive user interfaces.
 
 ### Frelance Web Developer | Smadaf Graphics Print (2022)
-- Designed and Developed a custom website that boosted the company’s online presence, resulting in increased customer engagement and sales
+- Utilized SEO after successful development of website that boosted the company’s online presence, resulting in increased customer engagement and sales
 
 ### Student Project | Landing Page Development (2021)
 - Crafted a landing page for students as part of a class project, demonstrating proficiency in web design and development principles.
 
 - Garnered positive feedback from peers and instructors for the effective design that promoted student resources and events.
- -->
+
 
 ---
 
@@ -102,7 +103,7 @@ Dynamic and results-driven Frontend Engineer with a proven track record of desig
 - **Certificate in Computer Science & Programming**  
   *Federal School of Statistics, July 2023*
 
-  - Revelant Courses: Data Structures and Algorithms, Operating Systems, Web Development, Software Engineering, User Experience/User Interfaces, Object-Oriented Programming
+  - **Revelant Courses:** Data Structures and Algorithms, Operating Systems, Web Development, Software Engineering, User Experience/User Interfaces, Object-Oriented Programming.
 
 ---
 
