@@ -102,8 +102,6 @@ Dynamic Frontend Engineer with a proven track record in designing and building s
 - **Certificate in Computer Science & Programming**  
   *Federal School of Statistics, July 2023*
 
-- **Computer Professionals (Registration Council of Nigeria)**
-
 ---
 
 ## LANGUAGES
