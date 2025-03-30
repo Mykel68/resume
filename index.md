@@ -130,19 +130,22 @@ Dynamic Frontend Engineer with a proven track record in designing and building s
 
 ## CONTACT & PROJECT LINKS
 
-- **Tel:** +234 (090) 3882 0041  
-- **Email:** [developermykel@gmail.com](mailto:developermykel@gmail.com)
-- **Portfolio:** [https://mykel.vercel.app](https://mykel.vercel.app)
-- **Github:** [https://github.com/Mykel68/](https://github.com/Mykel68/)
-- **LinkedIn:** [https://linkedin.com/in/devmplus](https://linkedin.com/in/devmplus)
+**Project Links:**
 
-**Additional Links:**
 - [Authentication Portal](https://auth.dclm.org)
 - [Scan Me Project](https://github.com/Mykel68/scanme)
 - [Expense Tracker](https://github.com/Mykel68/expense-tracker)
 - [DevLounge Telegram Bot](https://github.com/Mykel68/devToday_)
 - [DevLounge Full](https://github.com/Mykel68/devlounge-full) 
 
+
+**Contact Me:**
+
+- **Tel:** +234 (090) 3882 0041  
+- **Email:** [developermykel@gmail.com](mailto:developermykel@gmail.com)
+- **Portfolio:** [https://mykel.vercel.app](https://mykel.vercel.app)
+- **Github:** [https://github.com/Mykel68/](https://github.com/Mykel68/)
+- **LinkedIn:** [https://linkedin.com/in/devmplus](https://linkedin.com/in/devmplus)
 
 
 
