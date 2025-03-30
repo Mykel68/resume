@@ -26,23 +26,23 @@ Dynamic and results-driven Frontend Engineer with a proven track record of desig
 ## PROFESSIONAL EXPERIENCE
 
 ### Software Engineer | Olowoola Garment Production (2025)
-- Designed and Implemented a scalable, secure, and user-friendly web application for Olowoola Garment Production, a leading manufacturer of high-quality garments, ensuring a robust digital experience and streamlined operations.
-- Collaborated with cross-functional teams to streamline development processes and consistently deliver high-quality features that meet evolving business needs.
+- Designed and implemented a scalable, secure, and user-friendly web application for an innovative startup in the garment industry, ensuring a robust digital experience and streamlined operations.
+- Collaborated with cross-functional teams to enhance development processes and consistently deliver high-quality features that adapt to evolving business needs.
 
 ### Frontend Engineer | MyFund (2025)
 - Developed scalable React components for a dynamic financial dashboard, ensuring efficient data visualization and seamless user interactions.
 - Integrated secure APIs for real-time transaction processing and data updates, bolstering system reliability and financial accuracy.
-- Optimized code performance to reduce page load times and significantly enhance UI responsiveness, improving overall user satisfaction.
-- Collaborated within an agile team to streamline development processes and consistently deliver high-quality features.
+- Optimized code performance to reduce page load times and enhance UI responsiveness, resulting in significantly improved user satisfaction.
+- Contributed within an agile team environment to streamline development processes and deliver innovative solutions.
 
 ### Frontend Developer | DLES (2024)
-- Managed a complex bug fix in the authentication frontend that prevented users of different roles from logging in, optimizing the authentication experience for 100k+ registered app users.
-- Engineered a secure authentication portal by integrating token-based authentication and real-time user verification, significantly enhancing login security and user trust.
-- Developed an interactive radio web app featuring live streaming, personalized playlists, and real-time data updates, creating a highly engaging user experience.
+- Resolved complex authentication issues impacting over 100k users by engineering a robust solution that enhanced login security and user experience.
+- Integrated token-based authentication and real-time verification protocols, significantly increasing system integrity and user trust.
+- Developed an interactive radio web app featuring live streaming, personalized playlists, and real-time data updates for enhanced engagement.
 
 ### Fullstack Developer | DLES (2024)
-- Engineered a robust internal complaint system using a MERN stack for efficient issue reporting, tracking, and resolution, streamlining internal communications.
-- Built a secure, dynamic testimony site with integrated authentication to capture and display user feedback, enhancing user trust.
+- Engineered a robust internal complaint management system using the MERN stack, streamlining issue reporting, tracking, and resolution.
+- Built a secure, dynamic testimonial site with integrated authentication, enhancing the platform’s user feedback capabilities and trust.
 
 ### HNG Intern | Frontend Role (2024)
 - Completed an intensive, multi-stage frontend development internship (up to Stage 5), gaining hands-on experience in modern web technologies.
@@ -92,7 +92,7 @@ Dynamic and results-driven Frontend Engineer with a proven track record of desig
 
 ## OPEN SOURCE CONTRIBUTIONS
 
-- Actively contributed to community-driven open source projects by addressing bugs, reporting issues, and optimizing codebases.
+- Actively contributed to community-driven open source projects by writing code, addressing bugs, reporting issues, and optimizing codebases.
 - Developed and shared reusable React components and utilities, strengthening collaborative development efforts.
 
 ---
