@@ -37,7 +37,7 @@ Dynamic and results-driven Frontend Engineer with a proven track record of desig
 
 ### Frontend Developer | DLES (2024)
 - Resolved complex authentication issues impacting over 100k users by engineering a robust solution that enhanced login security and user experience.
-- Integrated token-based authentication and real-time verification protocols, significantly increasing system integrity and user trust.
+- Spearheaded a secure authentication portal by integrating token-based authentication and real-time user verification, resulting in improved user trust and engagement.
 - Developed an interactive radio web app featuring live streaming, personalized playlists, and real-time data updates for enhanced engagement.
 
 ### Fullstack Developer | DLES (2024)
@@ -80,7 +80,7 @@ Dynamic and results-driven Frontend Engineer with a proven track record of desig
   **Tech Stack:** Next.js, Express
   
 - **DevLounge (Telegram Bot):**  
-  Developed a Telegram bot that delivers real-time tech news, job listings, and relevant updates using Python and the Telegram Bot API.  
+  Implemented a Telegram bot that delivers real-time tech news, job listings, and relevant updates using Python and the Telegram Bot API.  
   **Tech Stack:** Python, Telegram Bot API
 
 - **DevLounge (Full):**  
@@ -101,6 +101,8 @@ Dynamic and results-driven Frontend Engineer with a proven track record of desig
 
 - **Certificate in Computer Science & Programming**  
   *Federal School of Statistics, July 2023*
+
+  - Revelant Courses: Data Structures and Algorithms, Operating Systems, Web Development, Software Engineering, User Experience/User Interfaces, Object-Oriented Programming
 
 ---
 
