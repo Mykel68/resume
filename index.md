@@ -26,42 +26,42 @@ Dynamic Frontend Engineer with a proven track record in designing and building s
 ## PROFESSIONAL EXPERIENCE
 
 ### Software Engineer | Olowoola Garment Production (2025)
-- Designed and implemented a scalable, secure, and user-friendly web application for Olowoola Garment Production, a leading manufacturer of high-quality garments.
-- Collaborated with cross-functional teams to streamline development and deliver high-quality features.
+- Designed and Implemented a scalable, secure, and user-friendly web application for Olowoola Garment Production, a leading manufacturer of high-quality garments, ensuring a robust digital experience and streamlined operations.
+- Collaborated with cross-functional teams to streamline development processes and consistently deliver high-quality features that meet evolving business needs.
 
 ### Frontend Engineer | MyFund (2025)
-- Developed scalable React components for a dynamic financial dashboard.
-- Integrated secure APIs for real-time transaction processing and data updates.
-- Optimized code performance, reducing page load times and enhancing UI responsiveness.
-- Implemented advanced security protocols including token-based authentication.
-- Collaborated in an agile team to streamline development and deliver high-quality features.
+- Developed scalable React components for a dynamic financial dashboard, ensuring efficient data visualization and seamless user interactions.
+- Integrated secure APIs for real-time transaction processing and data updates, bolstering system reliability and financial accuracy.
+- Optimized code performance to reduce page load times and significantly enhance UI responsiveness, improving overall user satisfaction.
+- Collaborated within an agile team to streamline development processes and consistently deliver high-quality features.
 
 ### Frontend Developer | DLES (2024)
-- Developed a secure authentication portal integrating token-based authentication and real-time user verification to enhance login security.
-- Built an interactive radio web app featuring live streaming, personalized playlists, and real-time data updates for an engaging user experience.
+- Managed a complex bug fix in the authentication frontend that prevented users of different roles from logging in, optimizing the authentication experience for 100k+ registered app users.
+- Engineered a secure authentication portal by integrating token-based authentication and real-time user verification, significantly enhancing login security and user trust.
+- Developed an interactive radio web app featuring live streaming, personalized playlists, and real-time data updates, creating a highly engaging user experience.
 
 ### Fullstack Developer | DLES (2024)
-- Developed a robust internal complaint system using a MERN stack for efficient issue reporting, tracking, and resolution.
-- Built a secure, dynamic testimony site with integrated authentication to capture and display user feedback.
+- Engineered a robust internal complaint system using a MERN stack for efficient issue reporting, tracking, and resolution, streamlining internal communications.
+- Built a secure, dynamic testimony site with integrated authentication to capture and display user feedback, enhancing user trust.
 
 ### HNG Intern | Frontend Role (2024)
-- Engaged in an intensive, multi-stage frontend development internship (completed up to Stage 5).
-- Developed skills in responsive design, JavaScript frameworks, and agile methodologies.
+- Completed an intensive, multi-stage frontend development internship (up to Stage 5), gaining hands-on experience in modern web technologies.
+- Enhanced skills in responsive design, JavaScript frameworks, and agile methodologies, driving personal and project growth.
 
 ### Junior Developer (2023)
-- Worked with PHP for backend development, implementing dynamic web features and maintaining legacy code.
+- Executed backend development using PHP to implement dynamic web features and maintain legacy code, ensuring system stability and performance.
 
 
 ### Student Project | Movie Recommendation App (2023) 
-- Developed a movie recommendation app using React.js and Node.js, showcasing the power of modern web technologies for building dynamic and interactive user interfaces.
+- Developed a movie recommendation app using React.js and Node.js, showcasing modern web technologies to deliver dynamic and interactive user interfaces.
 
 ### Frelance Web Developer | Smadaf Graphics Print (2022)
-- Designed and developed a custom website that enhanced the company’s online presence, leading to increased customer engagement and sales
+- Designed and Developed a custom website that boosted the company’s online presence, resulting in increased customer engagement and sales
 
 ### Student Project | Landing Page Development (2021)
-- Developed a landing page for students as part of a class project, demonstrating proficiency in web design and development principles.
+- Crafted a landing page for students as part of a class project, demonstrating proficiency in web design and development principles.
 
-- Received positive feedback from peers and instructors, highlighting the effectiveness of the design in promoting student resources and events.
+- Garnered positive feedback from peers and instructors for the effective design that promoted student resources and events.
 
 
 ---
