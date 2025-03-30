@@ -131,9 +131,7 @@ Dynamic and results-driven Frontend Engineer with a proven track record of desig
 
 ---
 
-## CONTACT & PROJECT LINKS
-
-**Project Links:**
+## PROJECT LINKS
 
 - [Authentication Portal](https://auth.dclm.org)
 - [Scan Me Project](https://github.com/Mykel68/scanme)
@@ -142,7 +140,7 @@ Dynamic and results-driven Frontend Engineer with a proven track record of desig
 - [DevLounge Full](https://github.com/Mykel68/devlounge-full) 
 
 
-**Contact Me:**
+## CONTACT ME
 
 - **Tel:** +234 (090) 3882 0041  
 - **Email:** [developermykel@gmail.com](mailto:developermykel@gmail.com)
