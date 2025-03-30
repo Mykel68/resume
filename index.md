@@ -107,12 +107,12 @@ Dynamic and results-driven Frontend Engineer with a proven track record of desig
 
 ---
 
-## LANGUAGES
+<!-- ## LANGUAGES
 
 - **English:** Fluent
 - **Yoruba:** Native
 
----
+--- -->
 
 ## PROFESSIONAL INTERESTS
 
