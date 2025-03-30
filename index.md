@@ -38,7 +38,7 @@ Dynamic and results-driven Frontend Engineer with a proven track record of desig
 ### Frontend Developer | DLES (2024)
 - Resolved complex authentication issues impacting over 100k users by engineering a robust solution that enhanced login security and user experience.
 - Spearheaded a secure authentication portal by integrating token-based authentication and real-time user verification, resulting in improved user trust and engagement.
-- Developed an interactive radio web app featuring live streaming, personalized playlists, and real-time data updates for enhanced engagement.
+- Developed an interactive radio web app featuring live streaming, personalized playlists, and real-time data updates for 10k+ monthly listeners.
 
 ### Fullstack Developer | DLES (2024)
 - Engineered a robust internal complaint management system using the MERN stack, streamlining issue reporting, tracking, and resolution.
@@ -103,7 +103,7 @@ Dynamic and results-driven Frontend Engineer with a proven track record of desig
 - **Certificate in Computer Science & Programming**  
   *Federal School of Statistics, July 2023*
 
-  - **Revelant Courses:** Data Structures and Algorithms, Operating Systems, Web Development, Software Engineering, User Experience/User Interfaces, Object-Oriented Programming.
+  - **Revelant Courses:** Data Structures and Algorithms, Operating Systems, Web Development, Software Engineering, Object-Oriented Programming.
 
 ---
 
@@ -148,6 +148,6 @@ Dynamic and results-driven Frontend Engineer with a proven track record of desig
 - **Github:** [https://github.com/Mykel68/](https://github.com/Mykel68/)
 - **LinkedIn:** [https://linkedin.com/in/devmplus](https://linkedin.com/in/devmplus)
 
-
+ .
 
 *Thank you for considering my application. I am excited about the opportunity to contribute my skills and experience to your team and look forward to discussing how I can add value to your organization.*
