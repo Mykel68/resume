@@ -7,7 +7,7 @@
 
 ## PROFESSIONAL SUMMARY
 
-Dynamic Frontend Engineer with a proven track record in designing and building seamless, responsive web applications. Adept at transforming complex requirements into intuitive, performance-optimized digital solutions. Excels in producing clean, maintainable code that accelerates project timelines and is committed to leveraging innovative design and cutting-edge technology to deliver superior user experiences and drive business growth.
+Dynamic and results-driven Frontend Engineer with a proven track record of designing and developing responsive, high-performance web applications. Adept at translating complex requirements into intuitive digital solutions, consistently delivering clean, maintainable code that accelerates project timelines. Passionate about leveraging innovative design and cutting-edge technology to deliver superior user experiences and drive business growth.
 
 ---
 
@@ -46,12 +46,12 @@ Dynamic Frontend Engineer with a proven track record in designing and building s
 
 ### HNG Intern | Frontend Role (2024)
 - Completed an intensive, multi-stage frontend development internship (up to Stage 5), gaining hands-on experience in modern web technologies.
-- Enhanced skills in responsive design, JavaScript frameworks, and agile methodologies, driving personal and project growth.
+- Enhanced proficiency in responsive design, JavaScript frameworks, and cross-functional collaboration.
 
 ### Junior Developer (2023)
-- Executed backend development using PHP to implement dynamic web features and maintain legacy code, ensuring system stability and performance.
+- Contributed to backend development using PHP to implement dynamic web features and maintain legacy systems, ensuring overall system stability and performance
 
-
+<!-- 
 ### Student Project | Movie Recommendation App (2023) 
 - Developed a movie recommendation app using React.js and Node.js, showcasing modern web technologies to deliver dynamic and interactive user interfaces.
 
@@ -62,29 +62,29 @@ Dynamic Frontend Engineer with a proven track record in designing and building s
 - Crafted a landing page for students as part of a class project, demonstrating proficiency in web design and development principles.
 
 - Garnered positive feedback from peers and instructors for the effective design that promoted student resources and events.
-
+ -->
 
 ---
 
 ## KEY PROJECTS
 
 - **Authentication Portal:**  
-  Developed a secure and scalable authentication portal for Deeper Life Bible Church serving over 100,000 users.
+  Developed a secure, scalable authentication system serving over 100,000 users, leveraging modern web security practices.
   
 - **Scan Me:**  
-  Developed a mobile-friendly application that utilizes QR code scanning to retrieve dynamic content and facilitate contactless interactions.  
+  Created a mobile-friendly application using Next.js and Express that utilizes QR code scanning to retrieve dynamic content and facilitate contactless interactions.  
   **Tech Stack:** Next.js, Express
 
 - **Expense Tracker:**  
-  Engineered a full-stack expense tracking platform featuring real-time data visualization, budgeting tools, and an intuitive interface for efficient financial management.  
+  Engineered a full-stack expense tracking platform featuring real-time data visualization and budgeting tools, optimizing financial management.  
   **Tech Stack:** Next.js, Express
   
 - **DevLounge (Telegram Bot):**  
-  Developed a Telegram bot that gives update on tech news, job listings, and other relevant information..  
+  Developed a Telegram bot that delivers real-time tech news, job listings, and relevant updates using Python and the Telegram Bot API.  
   **Tech Stack:** Python, Telegram Bot API
 
 - **DevLounge (Full):**  
-  Developed a full-fledged telegram to get live data that supplies supplies updates on tech news, job listings from various sources, and other relevant information all in one place.  
+  Built a comprehensive system to aggregate and deliver live data on tech news and job listings, enhancing user engagement through a multi-source information platform.  
   **Tech Stack:** Python, Telegram Bot API, Javascript
 
 
@@ -92,8 +92,8 @@ Dynamic Frontend Engineer with a proven track record in designing and building s
 
 ## OPEN SOURCE CONTRIBUTIONS
 
-- Contributed to various open source projects focused on frontend development by addressing bugs, reporting issues, and optimizing codebases.
-- Developed and shared reusable React components and utilities integrated into community-driven repositories.
+- Actively contributed to community-driven open source projects by addressing bugs, reporting issues, and optimizing codebases.
+- Developed and shared reusable React components and utilities, strengthening collaborative development efforts.
 
 ---
 
@@ -124,7 +124,7 @@ Dynamic Frontend Engineer with a proven track record in designing and building s
 ## VOLUNTEER EXPERIENCE
 
 ### Volunteer Coordinator, Deeper Life Tech Community
-- Coordinated community tech initiatives and volunteer activities to support local projects.
+- Coordinated tech initiatives and volunteer activities to support local community projects and promote technology education.
 
 ---
 
@@ -149,4 +149,4 @@ Dynamic Frontend Engineer with a proven track record in designing and building s
 
 
 
-*Thank you for considering my application. I am excited about the opportunity to contribute to your team and leverage my skills and experience for your organization. I look forward to discussing how my background aligns with your needs.*
+*Thank you for considering my application. I am excited about the opportunity to contribute my skills and experience to your team and look forward to discussing how I can add value to your organization.*
