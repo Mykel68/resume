@@ -25,7 +25,7 @@ Dynamic and results-driven Frontend Engineer with a proven track record of desig
 
 ## PROFESSIONAL EXPERIENCE
 
-### Software Engineer | Olowoola Garment Production 
+### Lead Engineer | Olowoola Garment Production 
 - Designed and implemented a scalable, secure, and user-friendly web application for an innovative startup in the garment industry, ensuring a robust digital experience and streamlined operations.
 - Collaborated with cross-functional teams to enhance development processes and consistently deliver high-quality features that adapt to evolving business needs.
 
@@ -103,7 +103,15 @@ Dynamic and results-driven Frontend Engineer with a proven track record of desig
 - **Certificate in Computer Science & Programming**  
   *Federal School of Statistics, July 2023*
 
-  - **Revelant Courses:** Data Structures and Algorithms, Operating Systems, Web Development, Software Engineering, Object-Oriented Programming.
+- **Meta Front-End Developer Professional Certificate**  
+  *Meta*
+
+- **Semrush SEO Certificate**  
+  *Semrush Academy*
+
+- **Revelant Courses:** Data Structures and Algorithms, Operating Systems, Web Development, Software Engineering, Object-Oriented Programming.
+
+
 
 ---
 
