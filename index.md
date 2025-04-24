@@ -137,6 +137,13 @@ Dynamic and results-driven Frontend Engineer with a proven track record of desig
 ### Volunteer Coordinator, Deeper Life Tech Community
 - Coordinated tech initiatives and volunteer activities to support local community projects and promote technology education.
 
+### Web developer tutor, TechWorld
+- Mentored and guided students in Fullstack web development, covering both frontend and backend technologies.
+
+- Led hands-on coding sessions, building real-world projects for the community to enhance learning and impact.
+
+- Encouraged best practices in software development, version control, and collaborative programming.
+
 ---
 
 ## PROJECT LINKS
