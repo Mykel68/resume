@@ -14,11 +14,10 @@ Senior Frontend Engineer specializing in performant, accessible user interfaces 
 
 ## TECHNICAL SKILLS
 
-- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Styled Components  
+- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Shadcn/ui, Material UI, Framer motion  
 - **UI/UX:** Figma to Code, Responsive Design, Accessibility (WCAG 2.1), Design Systems  
-- **Performance:** Lighthouse, Core Web Vitals (LCP, CLS, TTI), Lazy Loading, Code Splitting  
-- **Testing:** Playwright, Jest, Storybook (for UI component testing/documentation)  
-- **Other Tools:** Git, Postman, Docker, Node.js, Express  
+- **Performance:** Lighthouse, Core Web Vitals (LCP, CLS, TTI), Lazy Loading, Code Splitting   
+- **Other Tools:** Git, Postman, Docker, Node.js, Express, Php
 
 
 ---
