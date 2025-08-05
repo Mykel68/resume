@@ -44,10 +44,6 @@ Senior Frontend Engineer specializing in performant, accessible user interfaces 
 - Engineered a robust internal complaint management system using the MERN stack, streamlining issue reporting, tracking, and resolution.
 - Built a secure, dynamic testimonial site with integrated authentication, enhancing the platform’s user feedback capabilities and trust.
 
-### HNG Intern, Frontend Role (2024)
-- Completed an intensive, multi-stage frontend development internship (up to Stage 5), gaining hands-on experience in modern web technologies.
-- Enhanced proficiency in responsive design, JavaScript frameworks, and cross-functional collaboration.
-
 ### Junior Developer (2023)
 - Contributed to backend development using PHP to implement dynamic web features and maintain legacy systems, ensuring overall system stability and performance
 - Transitioned from HTML, CSS, JS to PHP, MySQL, Bootstrap
