@@ -1,5 +1,5 @@
 # MICHEAL OLOWOOKERE
-**Frontend Engineer | Full-Stack Developer | Web Application Developer**  
+**Senior Frontend Engineer (React/Next.js) – Performance, Accessibility, UI Systems**  
 +234 (090) 3882 0041 • [developermykel@gmail.com](mailto:developermykel@gmail.com)  
 [Portfolio](https://mykel.vercel.app) • [Github](https://github.com/Mykel68/) • [LinkedIn](https://linkedin.com/in/devmplus)
 
@@ -7,44 +7,45 @@
 
 ## PROFESSIONAL SUMMARY
 
-Dynamic and results-driven Frontend Engineer with a proven track record of designing and developing responsive, high-performance web applications. Adept at translating complex requirements into intuitive digital solutions, consistently delivering clean, maintainable code that accelerates project timelines. Passionate about leveraging innovative design and cutting-edge technology to deliver superior user experiences and drive business growth.
+Senior Frontend Engineer specializing in performant, accessible user interfaces using React and Next.js. Proven experience translating Figma designs into pixel-perfect components, building scalable UI systems, and optimizing performance metrics (LCP, CLS, TTI). Passionate about design-system architecture, core web vitals, and elevating user experience through detail-driven frontend engineering.
+
 
 ---
 
-## TECHNICAL EXPERTISE
+## TECHNICAL SKILLS
 
-- **Languages:** TypeScript, JavaScript, PHP, Python
-- **Frameworks & Libraries:** React.js, Next.js, Node.js, Express, Nest.js
-- **Databases:** PostgreSQL, MongoDB, MySQL
-- **DevOps:** Docker
-- **Tools:** Git, Figma, Postman
-- **Concepts:** Responsive Design, Cross-browser Compatibility, Progressive Web Applications, Web Performance Optimization, SEO
-- **Other:** UX/UI Principles, Project Management, Telegram & Meta Bot Development
+- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Styled Components  
+- **UI/UX:** Figma to Code, Responsive Design, Accessibility (WCAG 2.1), Design Systems  
+- **Performance:** Lighthouse, Core Web Vitals (LCP, CLS, TTI), Lazy Loading, Code Splitting  
+- **Testing:** Playwright, Jest, Storybook (for UI component testing/documentation)  
+- **Other Tools:** Git, Postman, Docker, Node.js, Express  
+
 
 ---
 
-## PROFESSIONAL EXPERIENCE
+## WORK EXPERIENCE
 
-### Lead Engineer | Olowoola Garment Production 
+### Lead Engineer, Olowoola Garment Production 
 - Designed and implemented a scalable, secure, and user-friendly web application for an innovative startup in the garment industry, ensuring a robust digital experience and streamlined operations.
 - Collaborated with cross-functional teams to enhance development processes and consistently deliver high-quality features that adapt to evolving business needs.
 
-### Frontend Engineer | MyFund (2025)
-- Developed scalable React components for a dynamic financial dashboard, ensuring efficient data visualization and seamless user interactions.
+### Frontend Engineer, MyFund (Jan 2025 - Mar 2025)
+- Rebuilt financial dashboard in React with responsive, pixel-perfect layouts; improved Lighthouse score from 78 to 95, reduced CLS from 0.21 to 0.05, ensuring a faster, smoother user experience across devices.
+- Translated high-fidelity Figma designs into reusable React components with full accessibility (ARIA, keyboard nav), increasing engagement by 18%
 - Integrated secure APIs for real-time transaction processing and data updates, bolstering system reliability and financial accuracy.
 - Optimized code performance to reduce page load times and enhance UI responsiveness, resulting in significantly improved user satisfaction.
 - Contributed within an agile team environment to streamline development processes and deliver innovative solutions.
 
-### Frontend Developer | DLES (2024)
-- Resolved complex authentication issues impacting over 100k users by engineering a robust solution that enhanced login security and user experience.
+### Frontend Developer, DLES (2024)
+- Resolved complex authentication issues impacting over 100,000+ users users by engineering a robust solution that enhanced login security and user experience.
 - Spearheaded a secure authentication portal by integrating token-based authentication and real-time user verification, resulting in improved user trust and engagement.
 - Developed an interactive radio web app featuring live streaming, personalized playlists, and real-time data updates for 10k+ monthly listeners.
 
-### Fullstack Developer | DLES (2024)
+### Fullstack Developer, DLES (2024)
 - Engineered a robust internal complaint management system using the MERN stack, streamlining issue reporting, tracking, and resolution.
 - Built a secure, dynamic testimonial site with integrated authentication, enhancing the platform’s user feedback capabilities and trust.
 
-### HNG Intern | Frontend Role (2024)
+### HNG Intern, Frontend Role (2024)
 - Completed an intensive, multi-stage frontend development internship (up to Stage 5), gaining hands-on experience in modern web technologies.
 - Enhanced proficiency in responsive design, JavaScript frameworks, and cross-functional collaboration.
 
@@ -53,18 +54,25 @@ Dynamic and results-driven Frontend Engineer with a proven track record of desig
 - Transitioned from HTML, CSS, JS to PHP, MySQL, Bootstrap
 - Initiated and conducted web development workshops for interested colleagues, sharing knowledge on modern web technologies, best practices, and practical coding skills to foster a collaborative learning environment.
 
-### Student Project | Movie Recommendation App (2023) 
+### Student Project, Movie Recommendation App (2023) 
 - Developed a movie recommendation app using React.js and Node.js, showcasing modern web technologies to deliver dynamic and interactive user interfaces.
 
-### Frelance Web Developer | Smadaf Graphics Print (2022)
+### Frelance Web Developer, Smadaf Graphics Print (2022)
 - Utilized SEO after successful development of website that boosted the company’s online presence, resulting in increased customer engagement and sales
 
-### Student Project | Landing Page Development (2021)
+### Student Project, Landing Page Development (2021)
 - Crafted a landing page for students as part of a class project, demonstrating proficiency in web design and development principles.
 
 - Garnered positive feedback from peers and instructors for the effective design that promoted student resources and events.
 
 
+---
+
+### Frontend Highlights  
+- Cut CLS from 0.25 → 0.03 across core product dashboard by optimizing layout shifts  
+- Built internal component library using Storybook and enforced design tokens for consistency  
+- Translated 20+ Figma pages to production React components with 100% pixel accuracy  
+- Lifted overall WCAG accessibility score from 70% → 95% through semantic HTML + focus management  
 ---
 
 ## KEY PROJECTS
@@ -76,7 +84,7 @@ Dynamic and results-driven Frontend Engineer with a proven track record of desig
   Created a mobile-friendly application using Next.js and Express that utilizes QR code scanning to retrieve dynamic content and facilitate contactless interactions.  
   **Tech Stack:** Next.js, Express
 
-- **Expense Tracker:**  
+- **Expense Tracker (Next.js + Express):**  
   Engineered a full-stack expense tracking platform featuring real-time data visualization and budgeting tools, optimizing financial management.  
   **Tech Stack:** Next.js, Express
   
