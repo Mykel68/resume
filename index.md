@@ -67,7 +67,9 @@ Senior Frontend Engineer specializing in performant, accessible user interfaces 
 - Cut CLS from 0.25 → 0.03 across core product dashboard by optimizing layout shifts  
 - Built internal component library using Storybook and enforced design tokens for consistency  
 - Translated 20+ Figma pages to production React components with 100% pixel accuracy  
-- Lifted overall WCAG accessibility score from 70% → 95% through semantic HTML + focus management  
+- Lifted overall WCAG accessibility score from 70% → 95% through semantic HTML + focus management 
+
+
 ---
 
 ## KEY PROJECTS
